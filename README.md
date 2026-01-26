@@ -73,21 +73,3 @@ I am a skilled **Software Developer** with a passion for building reliable, test
 | **Share My Ride** | A ride-sharing platform for long-distance booking with user authentication and admin dashboard. | Flutter, Auth Systems |
 
 ---
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTukaramDere&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Abhishek's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTukaramDere&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&hide=notebook" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTukaramDere&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </p>
-</div>
-
-<br />
-
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-</div>
