@@ -51,13 +51,13 @@ I am a skilled **Software Developer** with a passion for building reliable, test
 ### 💼 Professional Experience
 
 #### **Java Developer Intern** @ *Young Element India*
-*(Apr 2025 – Sep 2025)*
+*(Apr 2026 – Sep 2026)*
 *   Developed and maintained robust Java-based modules, significantly improving system reliability.
 *   Optimized database interactions with **MySQL** and **Firebase**, enhancing responsiveness by **34%**.
 *   Collaborated on client requirements and adhered to strict coding standards.
 
 #### **Mobile App Development Intern** @ *Incubators Systems Pvt. Ltd*
-*(Sep 2024 – Dec 2024)*
+*(Sep 2025 – Dec 2025)*
 *   Built interactive and responsive UIs using **React.js**.
 *   Implemented state management solutions (Provider) and custom UI/UX components.
 *   Ensured optimal performance across devices following user-centered design principles.
